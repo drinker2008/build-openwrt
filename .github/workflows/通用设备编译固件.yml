@@ -15,8 +15,8 @@ on:
         default: "lede-main"
         type: choice
         options:
-          - openwrt-main
-          - lede-master
+          - lede-main
+          - openwrt-master
           - immortalwrt-master
           - Lienol-master
       
